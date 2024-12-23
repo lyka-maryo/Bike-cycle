@@ -1,11 +1,11 @@
 navbar-brand img {
-    width: 100px;
-    height: 10px; /* Adjust size of the logo */
+  width: 100px;
+  height: 10px; /* Adjust size of the logo */
 }
 .navbar {
-    background-color: #c39b4d; /* Set a background color */
+  background-color: #c39b4d; /* Set a background color */
 }
 .nav-link {
-    color: white !important;
-    font-weight: bold;
+  color: white !important;
+  font-weight: bold;
 }
